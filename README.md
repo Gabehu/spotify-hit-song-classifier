@@ -1,4 +1,4 @@
-# spotify-hit-predictor
+# spotify-hit-song-classifier
 
 This notebook explores what characteristics differentiate hit songs from non-hit tracks using a large Spotify dataset. After cleaning and engineering features, we trained and evaluated two classification models—**Logistic Regression** and **Random Forest**—on a highly imbalanced dataset, rebalanced using **SMOTE**. We then interpreted key contributing features using model-based importance and SHAP values.
 
